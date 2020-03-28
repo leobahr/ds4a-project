@@ -1,0 +1,15 @@
+name: team_20_week4
+channels:
+- conda-forge
+- defaults
+dependencies:
+- jupyter
+- nb_conda
+- nb_conda_kernels
+- nb_anacondacloud
+- conda
+- jupyter_client
+- nbconvert
+- pandas
+- sqlalchemy
+- psycopg2
